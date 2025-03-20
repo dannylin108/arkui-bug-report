@@ -10,17 +10,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@ark-ui/solid": "4.2.1",
-    "lucide-solid": "^0.453.0",
-    "solid-js": "1.9.2"
+    "@ark-ui/solid": "5.1.1",
+    "lucide-solid": "^0.483.0",
+    "solid-js": "1.9.5"
   },
   "devDependencies": {
-    "@pandacss/dev": "0.47.0",
+    "@pandacss/dev": "0.53.2",
     "@park-ui/panda-preset": "0.42.0",
-    "typescript": "5.6.3",
-    "vite": "5.4.9",
-    "vite-plugin-solid": "2.10.2",
-    "vite-tsconfig-paths": "5.0.1"
+    "typescript": "5.8.2",
+    "vite": "6.2.2",
+    "vite-plugin-solid": "2.11.6",
+    "vite-tsconfig-paths": "5.1.4"
   },
-  "packageManager": "pnpm@9.12.2+sha512.22721b3a11f81661ae1ec68ce1a7b879425a1ca5b991c975b074ac220b187ce56c708fe5db69f4c962c989452eee76c82877f4ee80f474cebd61ee13461b6228"
+  "packageManager": "pnpm@10.6.1+sha512.40ee09af407fa9fbb5fbfb8e1cb40fbb74c0af0c3e10e9224d7b53c7658528615b2c92450e74cfad91e3a2dcafe3ce4050d80bda71d757756d2ce2b66213e9a3"
 }
